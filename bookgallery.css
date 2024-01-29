@@ -1,0 +1,51 @@
+.c{
+    height: 650px;
+    width: 18%;
+    background-color: rgb(244, 222, 203);
+    border: rgb(239 206 176) 95px solid;
+    float: left;
+    padding: 10px;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+
+body{
+    background-color:rgb(239 206 176) ;
+}
+img{
+    width: 55%;
+    height:400px ;
+    margin-left: 175px;
+}
+p{
+    font-weight: 700;
+    text-align: justify;
+    
+    font-weight: lighter;
+  
+}
+#bb{
+    text-align: center;
+}
+button{
+    background-color: peru;
+    color:black;
+    height: 50px;
+    width: 140px;
+    border-radius: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    
+}
+.a1{
+    font-style: italic;
+    text-align: center;
+    font-family:fantasy;
+}
+.d1{
+    font-size:xx-large;
+    margin-left: 48%;
+    font-family:fantasy;
+    
+}
